@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 70%;
+    margin: auto;
+}
+.icon-area ul{
+    list-style: none;
+}
+.icon-area ul li{
+    display: inline-block;
+}
+.icon-area ul li a{
+    background-color: purple;
+    font-size: 20px;
+    color:#fff;
+    padding: 20px 30px;
+    display: block;
+    border-radius:10px;
+}
+.icon-area ul li a:hover{
+    background-color: yellow;
+    color: black;
+    border-radius: 50%;
+    transition: 0.4s;
+}
+
+
+
+.container 2{
+    width: 70%;
+    margin: auto;
+}
+.icon-area-2 ul{
+    list-style: none;
+}
+.icon-area-2 ul li{
+    display: inline-block;
+}
+.icon-area-2 ul li a{
+    background-color:green;
+    font-size: 20px;
+    color:yellow;
+    padding: 20px 30px;
+    display: block;
+    border-radius:10px;
+}
+.icon-area-2 ul li a:hover{
+    background-color: red;
+    color: black;
+    border-radius: 50%;
+    transition: 0.4s;
+}
+
+  
+
+ 
